@@ -1,2 +1,2 @@
 # rigol_interface
-Capture Rigol screen
+Capture Rigol screen on Linux
