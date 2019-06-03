@@ -1,2 +1,2 @@
 # rigol_interface
-# rigol_interface
+Capture Rigol screen
