@@ -11,7 +11,7 @@ while (( "$#" )); do
             echo "RIGOL screen capture script"
             echo "-a, --address     Defines IP address of osciloscope."
             echo "                  If not defined script will scan LAN for RIGOL"
-            echo "                  device. Do not use when multiple RIGOL devices in LAN."
+            echo "                  device."
             printf "\n"
             echo "-f, --file        Defines filename in current directory to which screenshoot will be saved."
             echo "                  If not defined, file will be saved in timestamp file in current directory."
